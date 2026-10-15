@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://grainproc.com/sitemap.xml
